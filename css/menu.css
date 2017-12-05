@@ -29,7 +29,7 @@ This is the parent `<div>` that contains the menu and the content area.
     padding-left: 0;
 }
     #layout.active #menu {
-        left: 250px;
+        left: 33%;
         width: 250px;
     }
 
