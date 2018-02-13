@@ -66,10 +66,7 @@
   ],
   "player":{
     "name":"me",
-    "items":[
-      {
-      }
-    ],
+    "items":[],
     "attack":1,
     "defence":1,
     "health":1,
