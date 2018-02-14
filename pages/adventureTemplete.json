@@ -69,7 +69,7 @@
     "items":[],
     "attack":10,
     "defense":5,
-    "health":150;
+    "health":150,
     "level":1
   },
   "monsters":[
