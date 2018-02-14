@@ -4,7 +4,7 @@
   "rooms":[
     {
       "name":"1",
-      "description":"room 1",
+      "description":"room 1: new",
       "directions":[
         {
           "directionName":"north",
