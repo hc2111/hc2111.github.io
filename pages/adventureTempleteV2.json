@@ -41,7 +41,7 @@
         }
       ],
       "monstersInRoom":[
-        "hi"
+        "hi", "kyle"
       ]
     },
     {
@@ -59,9 +59,7 @@
           "damage":231
         }
       ],
-      "monstersInRoom":[
-        "kyle"
-      ]
+      "monstersInRoom":[]
     }
   ],
   "player":{
@@ -87,7 +85,7 @@
     },
     {
       "name":"kyle",
-      "attack":10,
+      "attack":100,
       "defense":50,
       "health":50
     }
