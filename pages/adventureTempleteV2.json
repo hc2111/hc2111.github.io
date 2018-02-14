@@ -83,7 +83,7 @@
       "name":"hi",
       "attack":1,
       "defense":10,
-      "health":60
+      "health":10
     },
     {
       "name":"kyle",
