@@ -67,29 +67,29 @@
   "player":{
     "name":"me",
     "items":[],
-    "attack":1,
-    "defense":1,
-    "health":1,
+    "attack":10,
+    "defense":5,
+    "health":150;
     "level":1
   },
   "monsters":[
     {
       "name":"bob",
-      "attack":0,
-      "defense":0,
-      "health":0
+      "attack":10,
+      "defense":5,
+      "health":100
     },
     {
       "name":"hi",
-      "attack":0,
-      "defense":0,
-      "health":0
+      "attack":1,
+      "defense":10,
+      "health":60
     },
     {
       "name":"kyle",
-      "attack":0,
-      "defense":0,
-      "health":0
+      "attack":10,
+      "defense":50,
+      "health":50
     }
   ]
 }
